@@ -1,0 +1,6 @@
+streamlit==1.42.2
+streamlit-webrtc
+opencv-python-headless
+matplotlib
+aiohttp      # dependency của streamlit-webrtc
+av           # dependency của streamlit-webrtc
